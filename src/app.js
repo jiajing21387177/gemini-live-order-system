@@ -304,7 +304,7 @@ async function start() {
 
     // Initialize Audio Context
     audioContext = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 16000 });
-    await audioContext.audioWorklet.addModule('./src/pcm-processor.js');
+    await audioContext.audioWorklet.addModule(`${import.meta.env.BASE_URL}pcm-processor.js`);
 
     mediaStream = await navigator.mediaDevices.getUserMedia({ 
       audio: { 
