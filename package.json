@@ -1,0 +1,22 @@
+{
+  "name": "gemini-live-demo",
+  "version": "1.0.0",
+  "description": "Gemini Live API Demo",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "vite --open",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@google/genai": "^1.32.0",
+    "mic": "^2.1.2",
+    "speaker": "^0.5.5",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "vite": "^6.4.1"
+  }
+}

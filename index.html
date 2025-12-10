@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gemini Live Web UI</title>
+    <link rel="stylesheet" href="./src/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  </head>
+<body class="bg-slate-950 text-slate-50 font-sans selection:bg-blue-500/30 overflow-x-hidden">
+    <!-- Ambient Background Effects -->
+    <div class="fixed inset-0 z-0 pointer-events-none overflow-hidden">
+        <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-blue-600/20 rounded-full blur-[128px] animate-pulse"></div>
+        <div class="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-purple-600/20 rounded-full blur-[128px] animate-pulse delay-1000"></div>
+    </div>
+
+    <!-- App Container -->
+    <div class="relative z-10 max-w-7xl mx-auto p-4 lg:p-8 min-h-screen flex flex-col gap-8">
+        
+        <!-- Header -->
+        <header class="flex items-center justify-between py-4 px-6 bg-slate-900/50 backdrop-blur-xl border border-slate-800/50 rounded-2xl shadow-2xl sticky top-4 z-50">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg shadow-blue-500/20">
+                    <span class="text-xl">🤖</span>
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">AI Delivery</h1>
+                    <p class="text-xs text-slate-400 font-medium tracking-wide uppercase">Voice Powered</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-4">
+                 <div id="status" class="hidden md:flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-800/50 border border-slate-700/50 text-xs font-medium text-slate-400">
+                    <div class="w-2 h-2 rounded-full bg-slate-500"></div>
+                    Ready
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Grid -->
+        <div class="grid lg:grid-cols-[1fr_400px] gap-8 items-start flex-grow">
+            
+            <!-- Left Column: Menu -->
+            <main class="flex flex-col gap-6">
+                <!-- Menu Header -->
+                <div class="flex items-center justify-between">
+                    <h2 class="text-2xl font-bold text-slate-100">Menu</h2>
+                    <div class="text-sm text-slate-400">Say "Add [item]" to order</div>
+                </div>
+
+                <!-- Menu Grid -->
+                <div id="menu-items" class="space-y-10 pb-20">
+                    <!-- Categories will be injected here -->
+                </div>
+            </main>
+
+            <!-- Right Column: Sidebar (Controls, Cart, Chat) -->
+            <aside class="lg:sticky lg:top-28 space-y-6">
+                
+                <!-- Voice Control Card -->
+                <div class="bg-slate-900/60 backdrop-blur-md border border-slate-800/60 rounded-3xl p-6 shadow-xl relative overflow-hidden group">
+                    <div class="absolute inset-0 bg-gradient-to-br from-blue-500/5 to-purple-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                    
+                    <div class="relative z-10 flex flex-col gap-6">
+                        <!-- Visualizer -->
+                        <div class="visualizer h-16 bg-slate-950/50 rounded-2xl flex items-center justify-center gap-1.5 px-4 border border-slate-800/50 shadow-inner">
+                            <div class="bar w-1.5 h-4 bg-blue-500 rounded-full"></div>
+                            <div class="bar w-1.5 h-6 bg-blue-500 rounded-full"></div>
+                            <div class="bar w-1.5 h-10 bg-blue-500 rounded-full"></div>
+                            <div class="bar w-1.5 h-5 bg-blue-500 rounded-full"></div>
+                            <div class="bar w-1.5 h-8 bg-blue-500 rounded-full"></div>
+                        </div>
+
+                        <!-- Controls -->
+                        <div class="grid grid-cols-2 gap-3">
+                            <button id="startButton" class="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 active:bg-blue-700 text-white font-semibold py-3 px-4 rounded-xl transition-all shadow-lg shadow-blue-900/20 hover:shadow-blue-600/30 hover:-translate-y-0.5">
+                                <span>🎙️</span> Start
+                            </button>
+                            <button id="stopButton" class="flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 active:bg-slate-900 text-slate-200 font-semibold py-3 px-4 rounded-xl transition-all border border-slate-700 hover:border-slate-600" disabled>
+                                <span>🛑</span> Stop
+                            </button>
+                        </div>
+
+                        <!-- API Key Input (Collapsible or discreet) -->
+                        <div class="relative">
+                            <input type="password" id="apiKey" placeholder="Gemini API Key" class="w-full bg-slate-950/50 border border-slate-800 rounded-xl px-4 py-2.5 text-sm text-slate-300 focus:outline-none focus:border-blue-500/50 focus:ring-1 focus:ring-blue-500/50 transition-all placeholder:text-slate-600" />
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cart Card -->
+                <div id="cart" class="bg-slate-900/60 backdrop-blur-md border border-slate-800/60 rounded-3xl p-6 shadow-xl hidden">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-lg font-semibold text-slate-200">Current Order</h3>
+                        <span class="bg-blue-500/10 text-blue-400 text-xs font-bold px-2 py-1 rounded-lg uppercase tracking-wider">Active</span>
+                    </div>
+                    
+                    <div id="cartItems" class="space-y-3 mb-6 max-h-60 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-transparent">
+                        <!-- Items injected here -->
+                    </div>
+
+                    <div class="pt-4 border-t border-slate-800/50">
+                        <div class="flex justify-between items-end">
+                            <span class="text-slate-400 text-sm">Total Amount</span>
+                            <span id="cartTotal" class="text-2xl font-bold text-white">$0.00</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Transcript Card -->
+                <div class="bg-slate-900/60 backdrop-blur-md border border-slate-800/60 rounded-3xl p-1 shadow-xl flex flex-col h-64">
+                    <div id="conversation-log" class="flex-grow overflow-y-auto p-4 space-y-3 text-sm scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-transparent">
+                        <div class="text-center text-slate-600 text-xs py-4">Conversation history will appear here...</div>
+                    </div>
+                </div>
+
+            </aside>
+        </div>
+    </div>
+    <script type="module" src="./src/app.js"></script>
+</body>
+</html>

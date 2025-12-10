@@ -1,0 +1,1018 @@
+{
+  "id": 206,
+  "name": "AI Delivery",
+  "slug": "ai-delivery",
+  "description": "Talk to AI to Order and Receive Delivery",
+  "available?": true,
+  "sales": [],
+  "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+  "categories": [
+    {
+      "id": 349,
+      "name": "冷凍產品",
+      "identification": "0425e61f11588eb9cf39",
+      "description": "FROZEN PRODUCTS",
+      "available?": true,
+      "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+      "products": [
+        {
+          "id": 3205,
+          "name": "Guatemalan Style Beef Stew (Frozen)",
+          "identification": "efaceae07b1f766f317d",
+          "price": 1700,
+          "description": "（Ｃ4)  冷凍包裝瓜地馬拉風味燉牛肉 - Frozen Guatemalan-style beef stew. A hearty, comforting dish featuring tender beef slow-cooked with tomatoes, spices, and vegetables. Ready to heat and serve.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/8nys7eehrv0nu8bkejov39hie0af?response-content-disposition=attachment%3B%20filename%3D%22ec7350847dd0afd29405%22%3B%20filename%2A%3DUTF-8%27%27ec7350847dd0afd29405&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=22fec522499acac23dd8cc26a03ff176e89fc49a74dfb3dd7e3b2e9932f12ef4"
+          }
+        },
+        {
+          "id": 3214,
+          "name": "Five Spice Pork Rolls (2 pcs)",
+          "identification": "7565f4021f371acfa121",
+          "price": 1200,
+          "description": "( B6 ) 五香雞卷 2條 5spice pork Rolls - [FROZEN] 高麗菜，胡蘿蔔,豬肉,洋蔥,魚漿",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/0deuhgokw1f90xr4ljntvutu04hj?response-content-disposition=attachment%3B%20filename%3D%22f751d0de3ce609198511%22%3B%20filename%2A%3DUTF-8%27%27f751d0de3ce609198511&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f7d0d89ffa9bdfe5c165dc40b495e1cabd32cb751bd90341168b6ea0fab488a9"
+          }
+        },
+        {
+          "id": 3215,
+          "name": "Shrimp Paste Rolls (2 pcs)",
+          "identification": "ebab19ea32a56b2735d2",
+          "price": 1300,
+          "description": "( B5 ) 韭菜蝦捲2條 shrimp paste Roll  - [FROZEN] 韭菜，蝦仁，高麗菜，洋蔥，魚漿",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/5pew8b92hn17969wlfv1lb0tissr?response-content-disposition=attachment%3B%20filename%3D%22a55e7973df8efda92214%22%3B%20filename%2A%3DUTF-8%27%27a55e7973df8efda92214&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b83ce7f5f796a3c30f71328479489574ab1e07a98de3c6baaf3aaea6cf9770ee"
+          }
+        },
+        {
+          "id": 3218,
+          "name": "Three Cup Basil Chicken (1 lb)",
+          "identification": "71d786a5652e0ba1b2a2",
+          "price": 1200,
+          "description": "( B3)  九層塔三杯雞 1lb basil chicken  - [FROZEN] 內容物有九層塔雞腿肉大蒜 解凍後加熱就可食用",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ehs8iuf26c435hqujyu3zgyxkv7x?response-content-disposition=attachment%3B%20filename%3D%225a7ece78d6cebc315ef0%22%3B%20filename%2A%3DUTF-8%27%275a7ece78d6cebc315ef0&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cc1ba1b6f8c9a086de99a491847ec16dd6f32981e582ed5c3f21c3be67addbcf"
+          }
+        },
+        {
+          "id": 3220,
+          "name": "Vegetarian Tofu Skin Goose",
+          "identification": "e0250aad36ba04ba8b84",
+          "price": 1700,
+          "description": "( D3 ) 千層素鵝 Vegetarian Tofu Skin  - [FROZEN] 千層豆腐皮 滷香菇",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/y302t2cvnrbebmry38mvyydr5iph?response-content-disposition=attachment%3B%20filename%3D%226580f6bb54337c25d84d%22%3B%20filename%2A%3DUTF-8%27%276580f6bb54337c25d84d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0d85c90d997691da2d2b613cc111b41af99f439a2ca888df63274d275ad37c0"
+          }
+        },
+        {
+          "id": 3222,
+          "name": "Taiwan Fried Pork Spare Ribs",
+          "identification": "2431fb0b52fc216b15b4",
+          "price": 1500,
+          "description": "(C3)  排骨酥 TW fried pork spare ribs - [FROZEN] 1 pound 豬小排地瓜粉",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/5cw029q7ep5dqug1loxq88i37sas?response-content-disposition=attachment%3B%20filename%3D%22938f85426d399d296381%22%3B%20filename%2A%3DUTF-8%27%27938f85426d399d296381&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=37c306f480d63e6dbdee50297f2bb375409b523fdec51e0e00e4540485488381"
+          }
+        },
+        {
+          "id": 3223,
+          "name": "Taiwanese Sesame Oil Chicken Soup (3 lbs)",
+          "identification": "e3938d5d5b97319f5a00",
+          "price": 1800,
+          "description": "麻油雞 TW herb Chicken soup 3 LB - [FROZEN] Traditional Sesame Oil Chicken Soup. A warming winter dish featuring chicken simmered with ginger, plenty of black sesame oil, and rice wine.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/v3pkrcxhtgk51phnfs5gtw9vhv68?response-content-disposition=attachment%3B%20filename%3D%22c7c4cf1acdc71e16b319%22%3B%20filename%2A%3DUTF-8%27%27c7c4cf1acdc71e16b319&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be124516e421b58b37b5a3b2b4d9089798ad6ebdcad874b5a13c275427119325"
+          }
+        },
+        {
+          "id": 3228,
+          "name": "Hakka Red Yeast Fried Pork Belly (1 lb)",
+          "identification": "52ef66af130e94242f17",
+          "price": 1500,
+          "description": "( C8 )  客家紅糟肉1Lb Hakka Fried Red Pork Belly - [FROZEN] 1 pound 紅麴酒釀五花肉蔥姜",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/80oquvlux8dabdkihls1drmie05w?response-content-disposition=attachment%3B%20filename%3D%225d37b47b721fcf224e90%22%3B%20filename%2A%3DUTF-8%27%275d37b47b721fcf224e90&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3c5cb24c87ea723b7508b68e8055a2a03c53020f1a20faa2a1991c41f32c469d"
+          }
+        },
+        {
+          "id": 3229,
+          "name": "Hakka Duck and Pickled Cabbage Soup",
+          "identification": "83e0ce1bb06956efee46",
+          "price": 1800,
+          "description": "客家酸菜鴨湯 Hakka Duck and Pickled Cabbage Soup - [FROZEN] ~3.5lb 鴨腿 酸菜 姜",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/1news8ztvptgbfe49manun4hdoyf?response-content-disposition=attachment%3B%20filename%3D%2288cd58d744416d7b123a%22%3B%20filename%2A%3DUTF-8%27%2788cd58d744416d7b123a&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd54d1287642f1b755b568925b886b45aae7d26fc399be25b0b85b6538d4c91a"
+          }
+        },
+        {
+          "id": 3230,
+          "name": "Taiwanese Salty Pork Belly (1 lb)",
+          "identification": "d4c824032ba24180faec",
+          "price": 1500,
+          "description": "( D7 ) 鹹豬肉 1lb TW salty pork belly - [FROZEN] 1 pound 香料粉加五花肉",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/sn36y0pl9ytghxxlwdxu3jh29uo9?response-content-disposition=attachment%3B%20filename%3D%22b285db4bac4638f2e1e5%22%3B%20filename%2A%3DUTF-8%27%27b285db4bac4638f2e1e5&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35145c0b4dcd191fda9db8d399ea6d22409a111c7fed78d4a54a805ea6786cbe"
+          }
+        },
+        {
+          "id": 3233,
+          "name": "Handmade Pork Meatballs (1 lb)",
+          "identification": "5a94182452c7ee345ba0",
+          "price": 1000,
+          "description": "(A1) 手工貢丸 1lb TW Meatball - [FROZEN] 1 pound 豬絞肉 調味粉油蔥酥 雞蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/jlfbxfqwqmjwlzo75013m17mybzg?response-content-disposition=attachment%3B%20filename%3D%2294b4c6c8bc3ce55eb01a%22%3B%20filename%2A%3DUTF-8%27%2794b4c6c8bc3ce55eb01a&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a745b3fd36d08d08b38105c9b2bd5c08ac028be89d385498c82f052505ba9a43"
+          }
+        },
+        {
+          "id": 3236,
+          "name": "Braised Pork Intestine (8 oz)",
+          "identification": "f9541bd9dc3f75bb6a5b",
+          "price": 1200,
+          "description": "(C6)  滷大腸 TW Braised Pork Intestine 8OZ - 1/2 pound [FROZEN] 老滷汁豬大腸辣椒乾",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/peos8u5r5heffau8qzv8xs5xgydo?response-content-disposition=attachment%3B%20filename%3D%22eb17749fb36a8bf07e4c%22%3B%20filename%2A%3DUTF-8%27%27eb17749fb36a8bf07e4c&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d4db3e7ef4c9443e7f5a4262c0568195c565e46e5b031284141e5d2eb43f5c12"
+          }
+        },
+        {
+          "id": 3238,
+          "name": "Braised Beef Tendon (12 oz)",
+          "identification": "76ea28c7a24330fc51eb",
+          "price": 1500,
+          "description": "( C5 ) 滷牛筋 12oz Braised Beef Tendon - [FROZEN] 12 oz  老滷汁 牛津辣椒乾",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/755vmbj1njnf81vkmyjxh6v51kek?response-content-disposition=attachment%3B%20filename%3D%2227add142e8bfc94b799d%22%3B%20filename%2A%3DUTF-8%27%2727add142e8bfc94b799d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=00c994734e3f9796f4c47a8e89217110759132a64837a2dc87f79b16e241ee70"
+          }
+        },
+        {
+          "id": 3239,
+          "name": "Braised Honeycomb Tripe (12 oz)",
+          "identification": "5f32723f633f770179cf",
+          "price": 1500,
+          "description": "( C1 ) 滷牛肚 12oz Braised Honeycomb Tripe - [FROZEN] Braised Honeycomb Tripe. Beef tripe simmered in a spiced soy marinade. It offers a pleasant chewy texture and absorbs the savory flavors of the sauce.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ypijuxa4dtpwhnd1ek3jpsniluwj?response-content-disposition=attachment%3B%20filename%3D%220cd8a187903085031faa%22%3B%20filename%2A%3DUTF-8%27%270cd8a187903085031faa&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6c9c56dc98282485442904dfe105bfe9462fad18408f3c3e0dfc652b199161d4"
+          }
+        },
+        {
+          "id": 3240,
+          "name": "Braised Beef Shank (12 oz)",
+          "identification": "e715e2150b0ce2ed27a0",
+          "price": 1500,
+          "description": "( C 2 )  滷牛腱 12oz Braised Beef Shank - [FROZEN] 12 oz 老滷汁 牛腱",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/7niiwn6a92cbbpiemed5128t12kh?response-content-disposition=attachment%3B%20filename%3D%226b4789c8b8b4da1b7db9%22%3B%20filename%2A%3DUTF-8%27%276b4789c8b8b4da1b7db9&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=92c7e7333c4259173795c9b065a802cdb1a62d6275253e54bb31fd6c7ee21bd3"
+          }
+        },
+        {
+          "id": 3242,
+          "name": "Braised Pork Feet (1 lb)",
+          "identification": "fe4bc12b8ae95ff8d4c4",
+          "price": 1500,
+          "description": "(D4)  滷豬腳1lb braised pork feet - [FROZEN] 解凍後蒸,煮一下就食用",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/sd4vsx8dafffqu1uo213npbqfmwa?response-content-disposition=attachment%3B%20filename%3D%2292995c882e265b44c3e6%22%3B%20filename%2A%3DUTF-8%27%2792995c882e265b44c3e6&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e030c7bf4ecfcefab87f801d28ab7cfc49cd9ba0dd2f8539a9d233e8316566b4"
+          }
+        },
+        {
+          "id": 3252,
+          "name": "Taiwan Tempura",
+          "identification": "122de30eb76a4c1d1d97",
+          "price": 1200,
+          "description": "(B8)  甜不辣條 TW Tempura - [FROZEN] 1 pound of Taiwanese Tempura Strips. Cylindrical, chewy fish paste strips",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/26dyc57jy491sa5owpm0llnaqwnb?response-content-disposition=attachment%3B%20filename%3D%22b971c5d699c6e298547e%22%3B%20filename%2A%3DUTF-8%27%27b971c5d699c6e298547e&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=85a4e73023d7cd3a3f13df0ccb5c5c52105210a63ac53badeb2976bff3c84d31"
+          }
+        },
+        {
+          "id": 3253,
+          "name": "Fuzhou Fishballs",
+          "identification": "117aabc3a0e917b46f27",
+          "price": 800,
+          "description": "(B7)  福州魚丸 Fuzhou Fishball - [FROZEN] 1 pound  澱粉豬肉油蔥",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qxe44qaz7uu06m3t938jl67wizah?response-content-disposition=attachment%3B%20filename%3D%2241aca3fbe83ea6f7505b%22%3B%20filename%2A%3DUTF-8%27%2741aca3fbe83ea6f7505b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53f62f1bd4d5486ac483c2eb70d2daea7a8ebbf5e3f515634f24fba04b5c5528"
+          }
+        },
+        {
+          "id": 3254,
+          "name": "Homestyle Braised Pork Belly (1 lb)",
+          "identification": "bf2e04ce44c0dc9c3a43",
+          "price": 1500,
+          "description": "( A 5 ) 家常控肉1LB Braised pork belly - [FROZEN] Homestyle Braised Pork Belly (Kong Rou). Thick slices of pork belly slow-braised in soy sauce, sugar, and aromatics until melt-in-your-mouth tender.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/kv5gvyudbqyv47tf3f0ig22y9qas?response-content-disposition=attachment%3B%20filename%3D%22ba58a60d7f1146923d60%22%3B%20filename%2A%3DUTF-8%27%27ba58a60d7f1146923d60&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6f3a140a24104977412af3e998c8275b44bbd9edb0c3aacc3bfb71f3635e5c"
+          }
+        },
+        {
+          "id": 3255,
+          "name": "Breakfast Style Hamburger Patties (9 pcs)",
+          "identification": "95c1cb338d5d0b855df4",
+          "price": 1500,
+          "description": "(B4)  美而美漢堡肉9片 TW Hamburger Patty - [FROZEN] 豬肉 洋蔥胡蘿蔔 調味粉",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qeb0rpkqoerwhymxzlwys4q0l669?response-content-disposition=attachment%3B%20filename%3D%22e0ca961129f26ec13f95%22%3B%20filename%2A%3DUTF-8%27%27e0ca961129f26ec13f95&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7d1b658b8fe3df208f04a6fcd9a01ebf37768a8755b01d651fda0f7238e78b46"
+          }
+        },
+        {
+          "id": 3256,
+          "name": "Taro Cake (5 pcs)",
+          "identification": "85f9af592c3f27eb8d3e",
+          "price": 1100,
+          "description": "(D2)  芋頭巧5片 TW Taro Cake - [FROZEN] 新鮮芋頭 油蔥酥 澱粉 香菇蝦米",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/zy9hp9jfdqvo5j7x6taytcopcpzm?response-content-disposition=attachment%3B%20filename%3D%22572061fcd04a8d67a58b%22%3B%20filename%2A%3DUTF-8%27%27572061fcd04a8d67a58b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12310eda3cfd0a2a9edef5f6551e256e9a56a46b87b9095406194bfe55fec985"
+          }
+        },
+        {
+          "id": 3259,
+          "name": "Herbal Pork Rib Soup",
+          "identification": "ec5d9ce0efb749e9d95e",
+          "price": 1800,
+          "description": "藥燉排骨 Chinese Herbs and Pork Rib Soup - [FROZEN] Medicinal Pork Rib Soup. A warming herbal broth made with pork ribs and traditional Chinese herbs like angelica and goji berries. Nourishing and aromatic.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 164,
+            "created_at": "2022-09-01T05:06:07.740Z",
+            "updated_at": "2022-11-06T03:28:19.892Z",
+            "stockable_id": 3259,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/bu9mzgxurjn3bcuthpac7agyg9f7?response-content-disposition=attachment%3B%20filename%3D%22c0271109028cbadaa0fe%22%3B%20filename%2A%3DUTF-8%27%27c0271109028cbadaa0fe&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fdf9284809e80b824b56cb7b653ad7e09098a088599d5e7203dbf2cf5c4bf5d0"
+          }
+        },
+        {
+          "id": 3260,
+          "name": "Shrimp Pottage Soup (3 Servings)",
+          "identification": "b47b264000f1c6efc599",
+          "price": 1800,
+          "description": "蝦仁羹 Shrimp Pottage and Soup 3 人份 - [FROZEN] 蝦仁 蔥酥 調味粉 Lady fish",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/c9oehpqfhsuk5thyom1e129838jl?response-content-disposition=attachment%3B%20filename%3D%221a6835f672fd838d1852%22%3B%20filename%2A%3DUTF-8%27%271a6835f672fd838d1852&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=78cfa61534c02b8bc70e08d5a9c6c27736b250547bbb6539f694aeecbe6eface"
+          }
+        },
+        {
+          "id": 3261,
+          "name": "Handmade Mushroom Meatballs (1 lb)",
+          "identification": "c566a64515802fc70bf2",
+          "price": 1100,
+          "description": "(A2)  香菇手工貢丸1lb TW Mushroom Meatball - [FROZEN] 豬絞肉 調味粉 油蔥酥雞蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/03ljqpkmpg6hhv7hlls1a1udzwl6?response-content-disposition=attachment%3B%20filename%3D%22ca2f288c0f98dfe7f194%22%3B%20filename%2A%3DUTF-8%27%27ca2f288c0f98dfe7f194&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=77df2b2ee1ffc35c5a343f4026dc1c394ccc0a1bf2320ae9db2b1848e315a0c9"
+          }
+        },
+        {
+          "id": 3262,
+          "name": "Thai Style Garlic Chicken Wings (1 lb)",
+          "identification": "c8a52c13842a6b974459",
+          "price": 1500,
+          "description": "( C9 ) 香蒜雞翅 1lb Thai Style Garlic CK Wings - [FROZEN] 大蒜雞翅加上特製辣醬",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/zj00s0soscq4fhadmd3ey8bizxz6?response-content-disposition=attachment%3B%20filename%3D%229b75120f4e68c0f662e0%22%3B%20filename%2A%3DUTF-8%27%279b75120f4e68c0f662e0&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f6c182a730809f3ed5535a0a66d7e35f830171ead7743cac862652f5528a58c6"
+          }
+        },
+        {
+          "id": 3264,
+          "name": "Squid Pottage Soup (3 Servings)",
+          "identification": "7604005231e2dddeee9c",
+          "price": 1900,
+          "description": "魷魚羹 TW squid soup 3人份 - [FROZEN] 魷魚，魚漿筍絲胡蘿蔔柴魚調味粉  3人份",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/em6r1ut48y6ecyv8194srl04y6sm?response-content-disposition=attachment%3B%20filename%3D%22e0bf7a0c81134197a4a3%22%3B%20filename%2A%3DUTF-8%27%27e0bf7a0c81134197a4a3&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=75d05a8f550a44aee9f3898a4ae33f68b4865b853aa7715a1fff303644c3efea"
+          }
+        },
+        {
+          "id": 3266,
+          "name": "Golden Braised Minced Pork (1 lb)",
+          "identification": "a87e3d62ea58831c1d88",
+          "price": 1400,
+          "description": "(C7)  黃金粹滷肉1lb Golden Braised Pork - [FROZEN] 手工切五花肉 特製魯醬汁 高湯",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/iq59szg0rs6nq59v288pxjiglxcr?response-content-disposition=attachment%3B%20filename%3D%220082b481862d8a5e794b%22%3B%20filename%2A%3DUTF-8%27%270082b481862d8a5e794b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f9b77a432a2a2a6bb32ca0c34f00b45902e8652477eec474c7ef6e1b4cc7f48d"
+          }
+        },
+        {
+          "id": 3303,
+          "name": "Braised Bamboo Shoots (1 lb)",
+          "identification": "8a05e8d0a46a15f07b28",
+          "price": 1200,
+          "description": "(A9)  braised bamboo shoot 1LB - [FROZEN] Braised Bamboo Shoots. Tender bamboo shoots simmered in a savory broth/oil. A crisp and refreshing side dish that pairs perfectly with rice.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 143,
+            "created_at": "2022-03-22T23:35:47.007Z",
+            "updated_at": "2023-05-08T07:10:33.214Z",
+            "stockable_id": 3303,
+            "stockable_type": "Product",
+            "quantity": 0
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/15n4dl93bxyk4ysqylcyau2d3b2l?response-content-disposition=attachment%3B%20filename%3D%2287076abf77d1e0466b7d%22%3B%20filename%2A%3DUTF-8%27%2787076abf77d1e0466b7d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=99148dc3974694a2da1e06f258fef6851460ec30a4b669488742c2d6b97d132d"
+          }
+        },
+        {
+          "id": 4019,
+          "name": "Beigang Pig's Blood Cake",
+          "identification": "8c36cda11d54d84a4b93",
+          "price": 1200,
+          "description": "北港 米血糕 - [FROZEN] Beigang Pig's Blood Cake. A traditional snack made from sticky rice and pork blood.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qpqjlamyc90f18cp3svs82kevvhi?response-content-disposition=attachment%3B%20filename%3D%22fdd597f23aa57172697d%22%3B%20filename%2A%3DUTF-8%27%27fdd597f23aa57172697d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8ea49ba2a6b1bb7a33488cdf5c57aed907af5d38f54463756d008c0e2b240282"
+          }
+        },
+        {
+          "id": 4020,
+          "name": "Night Market Molten Butter Buns",
+          "identification": "519d11ac9ef6de8aef21",
+          "price": 2200,
+          "description": "夜市爆漿奶油餐包 - Night Market Molten Butter Buns.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qzwkk09xb9vy15itovqxfbauxcno?response-content-disposition=attachment%3B%20filename%3D%22e0efe5c4af57a3288966%22%3B%20filename%2A%3DUTF-8%27%27e0efe5c4af57a3288966&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fdeb0214c385b81e7aa5228e691cba22f490271b29d94734bc6729619f8f4102"
+          }
+        }
+      ],
+      "availability": null
+    },
+    {
+      "id": 406,
+      "name": "宅配嚴選",
+      "identification": "9d6a099abd86d0907866",
+      "description": "na",
+      "available?": true,
+      "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+      "products": [
+        {
+          "id": 3214,
+          "name": "Five Spice Pork Rolls (2 pcs)",
+          "identification": "7565f4021f371acfa121",
+          "price": 1200,
+          "description": "( B6 ) 五香雞卷 2條 5spice pork Rolls - [FROZEN] 高麗菜，胡蘿蔔,豬肉,洋蔥,魚漿",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/0deuhgokw1f90xr4ljntvutu04hj?response-content-disposition=attachment%3B%20filename%3D%22f751d0de3ce609198511%22%3B%20filename%2A%3DUTF-8%27%27f751d0de3ce609198511&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f7d0d89ffa9bdfe5c165dc40b495e1cabd32cb751bd90341168b6ea0fab488a9"
+          }
+        },
+        {
+          "id": 3215,
+          "name": "Shrimp Paste Rolls (2 pcs)",
+          "identification": "ebab19ea32a56b2735d2",
+          "price": 1300,
+          "description": "( B5 ) 韭菜蝦捲2條 shrimp paste Roll  - [FROZEN] 韭菜，蝦仁，高麗菜，洋蔥，魚漿",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/5pew8b92hn17969wlfv1lb0tissr?response-content-disposition=attachment%3B%20filename%3D%22a55e7973df8efda92214%22%3B%20filename%2A%3DUTF-8%27%27a55e7973df8efda92214&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b83ce7f5f796a3c30f71328479489574ab1e07a98de3c6baaf3aaea6cf9770ee"
+          }
+        },
+        {
+          "id": 3217,
+          "name": "Pig's Blood Cake",
+          "identification": "6b0fbfa7ed70de7e6a83",
+          "price": 850,
+          "description": "(D8)  一路發豬血糕 - [FROZEN] 冷凍真空包",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/nxyez0mozoor4iv151nvsuf4fkia?response-content-disposition=attachment%3B%20filename%3D%22aafb20b4d855d0a412de%22%3B%20filename%2A%3DUTF-8%27%27aafb20b4d855d0a412de&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=32b5da4d642bdaa0c5f730681aaae2abb22c4f7b6d8ece99d43200dfe9dcad1f"
+          }
+        },
+        {
+          "id": 3218,
+          "name": "Three Cup Basil Chicken (1 lb)",
+          "identification": "71d786a5652e0ba1b2a2",
+          "price": 1200,
+          "description": "( B3)  九層塔三杯雞 1lb basil chicken  - [FROZEN] 內容物有九層塔雞腿肉大蒜 解凍後加熱就可食用",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ehs8iuf26c435hqujyu3zgyxkv7x?response-content-disposition=attachment%3B%20filename%3D%225a7ece78d6cebc315ef0%22%3B%20filename%2A%3DUTF-8%27%275a7ece78d6cebc315ef0&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cc1ba1b6f8c9a086de99a491847ec16dd6f32981e582ed5c3f21c3be67addbcf"
+          }
+        },
+        {
+          "id": 3220,
+          "name": "Vegetarian Tofu Skin Goose",
+          "identification": "e0250aad36ba04ba8b84",
+          "price": 1700,
+          "description": "( D3 ) 千層素鵝 Vegetarian Tofu Skin  - [FROZEN] 千層豆腐皮 滷香菇",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/y302t2cvnrbebmry38mvyydr5iph?response-content-disposition=attachment%3B%20filename%3D%226580f6bb54337c25d84d%22%3B%20filename%2A%3DUTF-8%27%276580f6bb54337c25d84d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0d85c90d997691da2d2b613cc111b41af99f439a2ca888df63274d275ad37c0"
+          }
+        },
+        {
+          "id": 3222,
+          "name": "Taiwan Fried Pork Spare Ribs",
+          "identification": "2431fb0b52fc216b15b4",
+          "price": 1500,
+          "description": "(C3)  排骨酥 TW fried pork spare ribs - [FROZEN] 1 pound 豬小排地瓜粉",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/5cw029q7ep5dqug1loxq88i37sas?response-content-disposition=attachment%3B%20filename%3D%22938f85426d399d296381%22%3B%20filename%2A%3DUTF-8%27%27938f85426d399d296381&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=37c306f480d63e6dbdee50297f2bb375409b523fdec51e0e00e4540485488381"
+          }
+        },
+        {
+          "id": 3223,
+          "name": "Taiwanese Sesame Oil Chicken Soup (3 lbs)",
+          "identification": "e3938d5d5b97319f5a00",
+          "price": 1800,
+          "description": "麻油雞 TW herb Chicken soup 3 LB - [FROZEN] Traditional Sesame Oil Chicken Soup. A warming winter dish featuring chicken simmered with ginger, plenty of black sesame oil, and rice wine.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/v3pkrcxhtgk51phnfs5gtw9vhv68?response-content-disposition=attachment%3B%20filename%3D%22c7c4cf1acdc71e16b319%22%3B%20filename%2A%3DUTF-8%27%27c7c4cf1acdc71e16b319&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be124516e421b58b37b5a3b2b4d9089798ad6ebdcad874b5a13c275427119325"
+          }
+        },
+        {
+          "id": 3225,
+          "name": "Taiwanese Tempura Slices (1 lb)",
+          "identification": "2e05a48c9f65d8126a75",
+          "price": 1200,
+          "description": "(D5)  台灣甜不辣片1lb - Taiwanese Tempura",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/t78orfthdkzt9nlvjahrvxbu1kly?response-content-disposition=attachment%3B%20filename%3D%223e632c75e3add4a81217%22%3B%20filename%2A%3DUTF-8%27%273e632c75e3add4a81217&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ba299dfb72914ba4393d704024e6afbcd880fa6d2bedd9f85775e8970647010f"
+          }
+        },
+        {
+          "id": 3227,
+          "name": "Railway Bento Style Pork Chop (1 lb)",
+          "identification": "03e2d1db5c133b81bdf0",
+          "price": 1200,
+          "description": "( A7 ) 台鐵魯排骨1lb TW Fried Pork Chop - [FROZEN] 1 pound  豬扒 特別醃醬 大蒜蔥姜",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ex4ztvpah16mj8pfrtm8lx7wqst9?response-content-disposition=attachment%3B%20filename%3D%2236bacf913332fc4b4170%22%3B%20filename%2A%3DUTF-8%27%2736bacf913332fc4b4170&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fb489c229517f901db11900fa344a5822f229708f936a19e17281ca0c0080afb"
+          }
+        },
+        {
+          "id": 3228,
+          "name": "Hakka Red Yeast Fried Pork Belly (1 lb)",
+          "identification": "52ef66af130e94242f17",
+          "price": 1500,
+          "description": "( C8 )  客家紅糟肉1Lb Hakka Fried Red Pork Belly - [FROZEN] 1 pound 紅麴酒釀五花肉蔥姜",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/80oquvlux8dabdkihls1drmie05w?response-content-disposition=attachment%3B%20filename%3D%225d37b47b721fcf224e90%22%3B%20filename%2A%3DUTF-8%27%275d37b47b721fcf224e90&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3c5cb24c87ea723b7508b68e8055a2a03c53020f1a20faa2a1991c41f32c469d"
+          }
+        },
+        {
+          "id": 3229,
+          "name": "Hakka Duck and Pickled Cabbage Soup",
+          "identification": "83e0ce1bb06956efee46",
+          "price": 1800,
+          "description": "客家酸菜鴨湯 Hakka Duck and Pickled Cabbage Soup - [FROZEN] ~3.5lb 鴨腿 酸菜 姜",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/1news8ztvptgbfe49manun4hdoyf?response-content-disposition=attachment%3B%20filename%3D%2288cd58d744416d7b123a%22%3B%20filename%2A%3DUTF-8%27%2788cd58d744416d7b123a&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd54d1287642f1b755b568925b886b45aae7d26fc399be25b0b85b6538d4c91a"
+          }
+        },
+        {
+          "id": 3233,
+          "name": "Handmade Pork Meatballs (1 lb)",
+          "identification": "5a94182452c7ee345ba0",
+          "price": 1000,
+          "description": "(A1) 手工貢丸 1lb TW Meatball - [FROZEN] 1 pound 豬絞肉 調味粉油蔥酥 雞蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/jlfbxfqwqmjwlzo75013m17mybzg?response-content-disposition=attachment%3B%20filename%3D%2294b4c6c8bc3ce55eb01a%22%3B%20filename%2A%3DUTF-8%27%2794b4c6c8bc3ce55eb01a&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a745b3fd36d08d08b38105c9b2bd5c08ac028be89d385498c82f052505ba9a43"
+          }
+        },
+        {
+          "id": 3238,
+          "name": "Braised Beef Tendon (12 oz)",
+          "identification": "76ea28c7a24330fc51eb",
+          "price": 1500,
+          "description": "( C5 ) 滷牛筋 12oz Braised Beef Tendon - [FROZEN] 12 oz  老滷汁 牛津辣椒乾",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/755vmbj1njnf81vkmyjxh6v51kek?response-content-disposition=attachment%3B%20filename%3D%2227add142e8bfc94b799d%22%3B%20filename%2A%3DUTF-8%27%2727add142e8bfc94b799d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=00c994734e3f9796f4c47a8e89217110759132a64837a2dc87f79b16e241ee70"
+          }
+        },
+        {
+          "id": 3239,
+          "name": "Braised Honeycomb Tripe (12 oz)",
+          "identification": "5f32723f633f770179cf",
+          "price": 1500,
+          "description": "( C1 ) 滷牛肚 12oz Braised Honeycomb Tripe - [FROZEN] Braised Honeycomb Tripe. Beef tripe simmered in a spiced soy marinade. It offers a pleasant chewy texture and absorbs the savory flavors of the sauce.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ypijuxa4dtpwhnd1ek3jpsniluwj?response-content-disposition=attachment%3B%20filename%3D%220cd8a187903085031faa%22%3B%20filename%2A%3DUTF-8%27%270cd8a187903085031faa&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6c9c56dc98282485442904dfe105bfe9462fad18408f3c3e0dfc652b199161d4"
+          }
+        },
+        {
+          "id": 3242,
+          "name": "Braised Pork Feet (1 lb)",
+          "identification": "fe4bc12b8ae95ff8d4c4",
+          "price": 1500,
+          "description": "(D4)  滷豬腳1lb braised pork feet - [FROZEN] 解凍後蒸,煮一下就食用",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/sd4vsx8dafffqu1uo213npbqfmwa?response-content-disposition=attachment%3B%20filename%3D%2292995c882e265b44c3e6%22%3B%20filename%2A%3DUTF-8%27%2792995c882e265b44c3e6&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e030c7bf4ecfcefab87f801d28ab7cfc49cd9ba0dd2f8539a9d233e8316566b4"
+          }
+        },
+        {
+          "id": 3252,
+          "name": "Taiwan Tempura",
+          "identification": "122de30eb76a4c1d1d97",
+          "price": 1200,
+          "description": "(B8)  甜不辣條 TW Tempura - [FROZEN] 1 pound of Taiwanese Tempura Strips. Cylindrical, chewy fish paste strips",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/26dyc57jy491sa5owpm0llnaqwnb?response-content-disposition=attachment%3B%20filename%3D%22b971c5d699c6e298547e%22%3B%20filename%2A%3DUTF-8%27%27b971c5d699c6e298547e&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=85a4e73023d7cd3a3f13df0ccb5c5c52105210a63ac53badeb2976bff3c84d31"
+          }
+        },
+        {
+          "id": 3253,
+          "name": "Fuzhou Fishballs",
+          "identification": "117aabc3a0e917b46f27",
+          "price": 800,
+          "description": "(B7)  福州魚丸 Fuzhou Fishball - [FROZEN] 1 pound  澱粉豬肉油蔥",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qxe44qaz7uu06m3t938jl67wizah?response-content-disposition=attachment%3B%20filename%3D%2241aca3fbe83ea6f7505b%22%3B%20filename%2A%3DUTF-8%27%2741aca3fbe83ea6f7505b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53f62f1bd4d5486ac483c2eb70d2daea7a8ebbf5e3f515634f24fba04b5c5528"
+          }
+        },
+        {
+          "id": 3254,
+          "name": "Homestyle Braised Pork Belly (1 lb)",
+          "identification": "bf2e04ce44c0dc9c3a43",
+          "price": 1500,
+          "description": "( A 5 ) 家常控肉1LB Braised pork belly - [FROZEN] Homestyle Braised Pork Belly (Kong Rou). Thick slices of pork belly slow-braised in soy sauce, sugar, and aromatics until melt-in-your-mouth tender.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/kv5gvyudbqyv47tf3f0ig22y9qas?response-content-disposition=attachment%3B%20filename%3D%22ba58a60d7f1146923d60%22%3B%20filename%2A%3DUTF-8%27%27ba58a60d7f1146923d60&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6f3a140a24104977412af3e998c8275b44bbd9edb0c3aacc3bfb71f3635e5c"
+          }
+        },
+        {
+          "id": 3255,
+          "name": "Breakfast Style Hamburger Patties (9 pcs)",
+          "identification": "95c1cb338d5d0b855df4",
+          "price": 1500,
+          "description": "(B4)  美而美漢堡肉9片 TW Hamburger Patty - [FROZEN] 豬肉 洋蔥胡蘿蔔 調味粉",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/qeb0rpkqoerwhymxzlwys4q0l669?response-content-disposition=attachment%3B%20filename%3D%22e0ca961129f26ec13f95%22%3B%20filename%2A%3DUTF-8%27%27e0ca961129f26ec13f95&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7d1b658b8fe3df208f04a6fcd9a01ebf37768a8755b01d651fda0f7238e78b46"
+          }
+        },
+        {
+          "id": 3256,
+          "name": "Taro Cake (5 pcs)",
+          "identification": "85f9af592c3f27eb8d3e",
+          "price": 1100,
+          "description": "(D2)  芋頭巧5片 TW Taro Cake - [FROZEN] 新鮮芋頭 油蔥酥 澱粉 香菇蝦米",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/zy9hp9jfdqvo5j7x6taytcopcpzm?response-content-disposition=attachment%3B%20filename%3D%22572061fcd04a8d67a58b%22%3B%20filename%2A%3DUTF-8%27%27572061fcd04a8d67a58b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12310eda3cfd0a2a9edef5f6551e256e9a56a46b87b9095406194bfe55fec985"
+          }
+        },
+        {
+          "id": 3261,
+          "name": "Handmade Mushroom Meatballs (1 lb)",
+          "identification": "c566a64515802fc70bf2",
+          "price": 1100,
+          "description": "(A2)  香菇手工貢丸1lb TW Mushroom Meatball - [FROZEN] 豬絞肉 調味粉 油蔥酥雞蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/03ljqpkmpg6hhv7hlls1a1udzwl6?response-content-disposition=attachment%3B%20filename%3D%22ca2f288c0f98dfe7f194%22%3B%20filename%2A%3DUTF-8%27%27ca2f288c0f98dfe7f194&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=77df2b2ee1ffc35c5a343f4026dc1c394ccc0a1bf2320ae9db2b1848e315a0c9"
+          }
+        },
+        {
+          "id": 3262,
+          "name": "Thai Style Garlic Chicken Wings (1 lb)",
+          "identification": "c8a52c13842a6b974459",
+          "price": 1500,
+          "description": "( C9 ) 香蒜雞翅 1lb Thai Style Garlic CK Wings - [FROZEN] 大蒜雞翅加上特製辣醬",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/zj00s0soscq4fhadmd3ey8bizxz6?response-content-disposition=attachment%3B%20filename%3D%229b75120f4e68c0f662e0%22%3B%20filename%2A%3DUTF-8%27%279b75120f4e68c0f662e0&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f6c182a730809f3ed5535a0a66d7e35f830171ead7743cac862652f5528a58c6"
+          }
+        },
+        {
+          "id": 3266,
+          "name": "Golden Braised Minced Pork (1 lb)",
+          "identification": "a87e3d62ea58831c1d88",
+          "price": 1400,
+          "description": "(C7)  黃金粹滷肉1lb Golden Braised Pork - [FROZEN] 手工切五花肉 特製魯醬汁 高湯",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/iq59szg0rs6nq59v288pxjiglxcr?response-content-disposition=attachment%3B%20filename%3D%220082b481862d8a5e794b%22%3B%20filename%2A%3DUTF-8%27%270082b481862d8a5e794b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f9b77a432a2a2a6bb32ca0c34f00b45902e8652477eec474c7ef6e1b4cc7f48d"
+          }
+        },
+        {
+          "id": 3344,
+          "name": "Taiwanese Mayonnaise",
+          "identification": "8cfb0de59eb1896215f7",
+          "price": 1000,
+          "description": "台灣美乃滋 - Authentic Taiwanese-style mayonnaise.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 34,
+            "created_at": "2021-10-27T06:46:29.418Z",
+            "updated_at": "2023-08-09T07:07:26.291Z",
+            "stockable_id": 3344,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/1swwpaa1dsdazsmchd28ick6hw6q?response-content-disposition=attachment%3B%20filename%3D%22623d76a838115dea062b%22%3B%20filename%2A%3DUTF-8%27%27623d76a838115dea062b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=003c415336d2a2df9fde0550039e4c5a04dca0b40943fff2da05bc339a539d8a"
+          }
+        },
+        {
+          "id": 3677,
+          "name": "Black Bridge Style Sausage",
+          "identification": "1388da7c1d1200ff0de2",
+          "price": 1800,
+          "description": "(B2)  黑橋口味香腸 TW Sausage - Black Bridge Style Taiwanese Sausage. Famous for its sweet and savory flavor profile with a hint of garlic and cinnamon. Juicy, fatty, and delicious grilled or pan-fried with raw garlic.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/rbnctmyka71qucrwgofevwt8x3qg?response-content-disposition=attachment%3B%20filename%3D%2242145b7d7db771322a1d%22%3B%20filename%2A%3DUTF-8%27%2742145b7d7db771322a1d&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091051Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6fa4cfb40cd1adcd9a6ef6c19cc4dbd2f5d0a25125d4cf24b59346c9a76e1771"
+          }
+        }
+      ],
+      "availability": null
+    },
+    {
+      "id": 409,
+      "name": "冷藏產品 ",
+      "identification": "ec683677b6a0e585432c",
+      "description": "COLD ITEM",
+      "available?": true,
+      "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+      "products": [
+        {
+          "id": 3351,
+          "name": "Black Pepper Iron Plate Noodles (2 Packs)",
+          "identification": "9473adf741d13eeab9ca",
+          "price": 1500,
+          "description": "美而美黑胡椒鐵板麵2包 - Two packs of classic Taiwanese breakfast noodles. Features thick noodles stir-fried in a savory, aromatic, and spicy black pepper sauce.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 137,
+            "created_at": "2022-03-21T22:42:57.202Z",
+            "updated_at": "2023-08-09T06:58:16.808Z",
+            "stockable_id": 3351,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/3g07yd2ksouif41cmkb0s9p9i4rt?response-content-disposition=attachment%3B%20filename%3D%2212435fa987229a7591d8%22%3B%20filename%2A%3DUTF-8%27%2712435fa987229a7591d8&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9673d7146940aff3a0d52a26126e77eb1ab60a4c7eb9a73bdd20222aa9a45e76"
+          }
+        },
+        {
+          "id": 3331,
+          "name": "Mushroom Iron Plate Noodles (2 Packs)",
+          "identification": "f400954e8d7a5da86692",
+          "price": 1600,
+          "description": "美而美鐵板蘑菇口味兩包 - Two packs of Taiwanese \"iron plate\" breakfast noodles. These thick noodles come with a savory, slightly sweet tomato-mushroom sauce. A non-spicy, family-friendly favorite.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 66,
+            "created_at": "2021-11-29T06:54:03.662Z",
+            "updated_at": "2023-08-09T07:05:01.608Z",
+            "stockable_id": 3331,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/ibige61fip8b6fm4ilvdku21uk9a?response-content-disposition=attachment%3B%20filename%3D%226fa0b5d98b488bb207da%22%3B%20filename%2A%3DUTF-8%27%276fa0b5d98b488bb207da&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=81d79aeb61e9a52e223ceb8175c93efbae2399844ca0031ddc54a262bebc908f"
+          }
+        },
+        {
+          "id": 3344,
+          "name": "Taiwanese Mayonnaise",
+          "identification": "8cfb0de59eb1896215f7",
+          "price": 1000,
+          "description": "台灣美乃滋 - Authentic Taiwanese-style mayonnaise.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 34,
+            "created_at": "2021-10-27T06:46:29.418Z",
+            "updated_at": "2023-08-09T07:07:26.291Z",
+            "stockable_id": 3344,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/1swwpaa1dsdazsmchd28ick6hw6q?response-content-disposition=attachment%3B%20filename%3D%22623d76a838115dea062b%22%3B%20filename%2A%3DUTF-8%27%27623d76a838115dea062b&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=98c5f96167cc4e8516fdb3d2b7033ec34fedbd890efabc4e7516a0ce18150428"
+          }
+        },
+        {
+          "id": 3675,
+          "name": "Railway Pork Chop Bento",
+          "identification": "041daaad685461b67d4a",
+          "price": 1200,
+          "description": "台鐵滷排骨便1個 - One iconic Taiwan Railway Bento. Features a tender pork chop served over steamed rice, accompanied by a braised egg, corns and seasonal vegetables. ",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 165,
+            "created_at": "2022-09-01T05:13:31.445Z",
+            "updated_at": "2023-07-06T09:00:11.271Z",
+            "stockable_id": 3675,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/v5volsm1t5az6jbby8lhx4qlqudb?response-content-disposition=attachment%3B%20filename%3D%229b40b972385d0bbc38d2%22%3B%20filename%2A%3DUTF-8%27%279b40b972385d0bbc38d2&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ded408ee773d71583273d28b7b7419b16be2b9bc80c986da4f28ed1c73c5d84e"
+          }
+        },
+        {
+          "id": 3272,
+          "name": "Hainanese Chicken Rice",
+          "identification": "d39ee32f27e47a5e33eb",
+          "price": 1300,
+          "description": "🍱🍱海南雞飯 - Hainan CK Rice(contains nuts)",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 169,
+            "created_at": "2022-10-12T04:09:06.590Z",
+            "updated_at": "2022-10-12T04:33:14.613Z",
+            "stockable_id": 3272,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/7i7yknno9g2c7jkkza1mril2au0t?response-content-disposition=attachment%3B%20filename%3D%22803c0f9e1f24965ab267%22%3B%20filename%2A%3DUTF-8%27%27803c0f9e1f24965ab267&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=413c45990efa3029dc18b3f5871a30ec000490967ba314e651ea55b5e16a1823"
+          }
+        },
+        {
+          "id": 3280,
+          "name": "Hainanese Chicken (16 oz Box)",
+          "identification": "c81faa8574ccfed3a8b0",
+          "price": 1600,
+          "description": "海南雞16盎司盒裝 - Hainanese-style poached chicken. Come with Nuts, minced ginger, soy sauce",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": {
+            "id": 159,
+            "created_at": "2022-05-02T04:44:08.955Z",
+            "updated_at": "2022-11-06T03:56:56.730Z",
+            "stockable_id": 3280,
+            "stockable_type": "Product",
+            "quantity": null
+          },
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/lizz6wu7e9ukky5m7bxvk9s2larq?response-content-disposition=attachment%3B%20filename%3D%22ee56733155e4c6cca011%22%3B%20filename%2A%3DUTF-8%27%27ee56733155e4c6cca011&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=48b1f8b447b32799a88c7c8ab413c714821d296ae662f6fd1ccf49835e7e52f7"
+          }
+        },
+        {
+          "id": 3271,
+          "name": "Sichuan Spicy Mouth-Watering Chicken",
+          "identification": "c690bedc616ed77d4149",
+          "price": 1500,
+          "description": "川味口水雞 spicy chicken - Sichuan \"Mouth-Watering\" Chicken. A cold appetizer featuring tender poached chicken drenched in a spicy, aromatic chili oil sauce with numbing Sichuan peppercorns, sesame seeds, and peanuts.",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/zh73gpns43bldes2du42700reloz?response-content-disposition=attachment%3B%20filename%3D%22c5c22f309f4d571c6052%22%3B%20filename%2A%3DUTF-8%27%27c5c22f309f4d571c6052&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5daacc537a48fdce3316da74e7eb601c40174046e39b5401581c86e7a6ee7c9f"
+          }
+        },
+        {
+          "id": 3213,
+          "name": "Braised Pork Belly Rice Burrito",
+          "identification": "bf66c1c959c5ed779803",
+          "price": 900,
+          "description": "控肉飯糰 pork belly rice burrito - 控肉, 酸菜，豆乾，老油條，菜脯，素鬆",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/rcgng73dvhqjtgs4xddff7qwf7qd?response-content-disposition=attachment%3B%20filename%3D%220fa67c28aa5591c96177%22%3B%20filename%2A%3DUTF-8%27%270fa67c28aa5591c96177&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b5feb2163938aba3c301a15d75055e53c2123892571d8c7e94baf0fbfab2f4d8"
+          }
+        },
+        {
+          "id": 3211,
+          "name": "Purple Rice Burrito (Spicy, 2 pcs)",
+          "identification": "c179321dcdb64cef7b5b",
+          "price": 1600,
+          "description": "紫米辣味飯糰 (2) Purple spicy rice burrito - 酸菜，豆乾，老油條，菜脯，素鬆, 滷蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/31eq91rmxmaum3ikdts2fmd1jt3s?response-content-disposition=attachment%3B%20filename%3D%2237b69780dc92609a8868%22%3B%20filename%2A%3DUTF-8%27%2737b69780dc92609a8868&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a72053d5ca9ef7a6416368546db3b0cc52591228f8f108b74f80ea97199f09ee"
+          }
+        },
+        {
+          "id": 3210,
+          "name": "Purple Rice Burrito (2 pcs)",
+          "identification": "35f15761c8bc616986b4",
+          "price": 1600,
+          "description": "紫米飯糰 (2)  purple rice burrito - 酸菜，豆乾，老油條，菜脯，素鬆, 滷蛋",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/pehg22gl0zlye8fxob0m5sad5lk6?response-content-disposition=attachment%3B%20filename%3D%228bc71bd211d79ce989e2%22%3B%20filename%2A%3DUTF-8%27%278bc71bd211d79ce989e2&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=639225972590fc4ec8f73328cf2c34d751c830aacd7c55cfc6454142792f0c4c"
+          }
+        },
+        {
+          "id": 3273,
+          "name": "Beef Roll Pancake",
+          "identification": "e2346cd55516a122d035",
+          "price": 1100,
+          "description": "牛肉捲餅  - [FRESH] 魯牛腱蔥油餅大蔥特別醬汁",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/evhfqca8gwlxoksdfpajkm7sry90?response-content-disposition=attachment%3B%20filename%3D%22ba8bd04826817f426c02%22%3B%20filename%2A%3DUTF-8%27%27ba8bd04826817f426c02&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d7778c5e5265f36f366aa6f04035c3ed4d89c010a30a2de9c4389ddf52692d9b"
+          }
+        },
+        {
+          "id": 3212,
+          "name": "Scallion Egg Rice Burrito",
+          "identification": "42426313f971adb1e5e5",
+          "price": 900,
+          "description": "蔥蛋飯糰 OE - 蔥蛋, 酸菜，豆乾，老油條，菜脯，素鬆",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/85ws66onlx04q245c38j62vlgf1c?response-content-disposition=attachment%3B%20filename%3D%2236cd557a6e8fa602a9f6%22%3B%20filename%2A%3DUTF-8%27%2736cd557a6e8fa602a9f6&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cb802331a06c81f98a1b1fe6946d38510539dcc7544a293dd0b4b69de322df22"
+          }
+        },
+        {
+          "id": 3274,
+          "name": "Garlic Braised Beef Shank",
+          "identification": "fbf06f7e5d35bb81376d",
+          "price": 1500,
+          "description": "🍱🍱蒜香滷牛腱 Garlic Beef Shank - 魯牛腱大蒜特製辣醬跟蔥末",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/pj7mr2cpr9ek1i9ms017n9e3xiyp?response-content-disposition=attachment%3B%20filename%3D%22965c616bed21865e70e4%22%3B%20filename%2A%3DUTF-8%27%27965c616bed21865e70e4&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a31e475be3be909360b3c3e03343b39119200d8bf486ea6be305827b1f0728e6"
+          }
+        },
+        {
+          "id": 3209,
+          "name": "Traditional Rice Burrito (2 pcs)",
+          "identification": "f560df14cbfd564f99c8",
+          "price": 1400,
+          "description": "古早味飯糰 (2) original rice burrito - 酸菜，豆乾，老油條，菜脯，素鬆",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/reltj212cld0sk001juzyqd2xugy?response-content-disposition=attachment%3B%20filename%3D%22533b35a3d4877b2a4246%22%3B%20filename%2A%3DUTF-8%27%27533b35a3d4877b2a4246&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=93b73cead711ec0940ba92f859ae8d38f664e6cf8df3bf49cf15552f8e63ad80"
+          }
+        },
+        {
+          "id": 3208,
+          "name": "Traditional Spicy Rice Burrito (2 pcs)",
+          "identification": "393532376ef05c38da60",
+          "price": 1500,
+          "description": "# 古早辣味飯糰 ( 2 )Original spicy rice burrito - 酸菜，豆乾，老油條，菜脯，素鬆",
+          "revision": "066c2a40-bf9a-4b15-8b61-ce6c5248886f",
+          "groups": [],
+          "stock": null,
+          "image": {
+            "url": "https://chutify-production.sfo2.digitaloceanspaces.com/gcwdhcjeyvnwahljdh782xgjtq9g?response-content-disposition=attachment%3B%20filename%3D%2250c1dae1782cd24c8a89%22%3B%20filename%2A%3DUTF-8%27%2750c1dae1782cd24c8a89&response-content-type=image%2Fwebp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=N4XVZIH7N6F2NA3XETKG%2F20251209%2Fsfo2%2Fs3%2Faws4_request&X-Amz-Date=20251209T091052Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8196715a7d7006394f5c35ae3126b3b1732d05339feebc50ac9bffeff88e4617"
+          }
+        }
+      ],
+      "availability": null
+    }
+  ],
+  "availability": null
+}

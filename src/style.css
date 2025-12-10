@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@source "../index.html";
+@source "../src/**/*.js";
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-bg: #111827;
+  --color-card: #1f2937;
+  --color-text: #f3f4f6;
+}
+
+/* Custom scrollbar for Webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1f2937; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4b5563; 
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6b7280; 
+}
