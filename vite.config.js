@@ -5,4 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  base: '/gemini-live-order-system/',
 });
