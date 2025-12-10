@@ -47,12 +47,10 @@ function renderMenu(data = catalog) {
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         ${category.products.map(product => `
           <div class="group bg-slate-900/40 border border-slate-800/50 rounded-2xl p-4 hover:bg-slate-800/40 hover:border-blue-500/30 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-blue-900/10 flex gap-4">
-            ${product.image ? `
             <div class="w-24 h-24 shrink-0 rounded-xl overflow-hidden bg-slate-800 relative">
-                <img src="${product.image.url}" alt="${product.name}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
+                <img src="https://placehold.co/600/webp?text=${product.name?.split(' ').join('\n') || 'Unknown'}" alt="${product.name}" loading="lazy" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                 <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors"></div>
-            </div>` : ''}
-            
+            </div>
             <div class="flex flex-col flex-grow min-w-0">
               <div class="flex justify-between items-start mb-1">
                 <span class="font-semibold text-slate-200 truncate pr-2 group-hover:text-blue-400 transition-colors">${product.name}</span>
