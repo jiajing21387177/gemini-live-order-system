@@ -117,3 +117,6 @@ dist
 
 # macOS
 .DS_Store
+
+# Others
+sample/
